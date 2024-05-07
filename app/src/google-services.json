@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241580528477",
+    "project_id": "event-moment-e46e2",
+    "storage_bucket": "event-moment-e46e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241580528477:android:af27cec8aaa4c0861fceb4",
+        "android_client_info": {
+          "package_name": "com.example.eventmoment0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9lohJUPV2R0BRP0M82vl8zgYEVQT9D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
